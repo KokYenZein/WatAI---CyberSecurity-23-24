@@ -13,7 +13,9 @@ I and several members of the team composed various notebooks:
 exploring various classical machine learning models such as Logistic Regression, Adaboost, Gradientboost, K-Nearest Neigbours, Support Vector Machines, XGBoost, and Random Forests.
 - [Feature Exploration 2 and 8 labels](https://www.kaggle.com/code/yenzeinkok/yz-feature-exploration?scriptVersionId=150067677): exploring the correlation between various features for 2 classes and 8 classes
 - [Feature Exploration 34 labels](https://www.kaggle.com/code/yenzeinkok/yz-feature-exploration?scriptVersionId=150433002): exploring the correlation between various features for 34 classes
-- [Pipeline ](https://github.com/KokYenZein/WatAI---CyberSecurity-23-24/blob/main/classic%20models/pipeline-testing.ipynb): Evaluating whether a pipeline containing several models will improve prediction capabilities
+- [Pipeline Testing](https://github.com/KokYenZein/WatAI---CyberSecurity-23-24/blob/main/Pipelines/pipeline-testing.ipynb): Evaluating whether a pipeline containing several models will improve prediction capabilities
+- [Particle Swarm Optimization Algorithm](https://github.com/KokYenZein/WatAI---CyberSecurity-23-24/blob/main/Bio-Inspired%20Algorithms/Particle%20Swam%20Optimization%20(PSO).ipynb): 
+exploring a Bio-Inspired Algorithm, PSO which might help minimize and identify relevant features
 
 # Other Links
 - [Our team's blog posts](https://wataicyber.substack.com/)
