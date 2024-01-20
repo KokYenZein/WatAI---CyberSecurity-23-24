@@ -18,6 +18,7 @@ exploring various classical machine learning models such as Logistic Regression,
 exploring a Bio-Inspired Algorithm, PSO which might help minimize and identify relevant features
 
 # Other Links
+- [My blog posts](https://substack.com/@bananazein)
 - [Our team's blog posts](https://wataicyber.substack.com/)
 - [Research paper on the Dataset](https://www.mdpi.com/1424-8220/23/13/5941)
 - [Project lead's Repository](https://github.com/Madhav-Malhotra/cicIoT)
