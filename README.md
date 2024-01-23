@@ -2,6 +2,8 @@
 The [WAT.ai](https://watai.ca/) CyberSecurity 23/24 team seeks to explore the features of 33 IoT attacks (of 7 groups) and develop lightweight
 security Machine Learning models to detect and classify each attack.
 
+![Bio-Inspired Workshop](https://github.com/KokYenZein/WatAI---CyberSecurity-23-24/blob/main/Photos/PXL_20231020_215420791.jpg)
+
 # Dataset
 The dataset is comprised of attacks grouped into seven categories: DDoS, DoS, Recon, Web-based, Brute Force, Spoofing, and Mirai.
 46 features were extracted from each executed attack used to evaluate. 
