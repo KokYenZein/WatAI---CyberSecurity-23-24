@@ -17,16 +17,18 @@ def preprocess_line(line):
     numbers_str = re.findall(pattern, line)
     return numbers_str
 
+
+
 def main():
     # Load the array from the text file, with preprocessing for each line
     scaled_X_test_20 = []
-    with open('Profiling/scaled_X_test_20', 'r') as file:
+    with open('scaled_X_test_20', 'r') as file:
         for line in file:
             preprocessed_line = preprocess_line(line)
             # Convert each found number to float and append to the list
             scaled_X_test_20.append([float(num) for num in preprocessed_line])
     
-    with open('Profiling\y_test_20', 'r') as file:
+    with open('y_test_20', 'r') as file:
         y_test_20 = [float(line) for line in file]
 
     # SAVE PID TO TEXT FILE
@@ -37,7 +39,7 @@ def main():
     while True:
         pid = getpid()
         for row in scaled_X_test_20:
-            print(linear_svc_1_score(row))
-        sleep(3)
+            print(lr_1_score(row))
+        sleep(5)
 
 main()
