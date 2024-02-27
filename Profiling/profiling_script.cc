@@ -24,11 +24,11 @@ double linear_svc_10_score(double * input) {
 
 
 int main() {
-    std::vector<double> row = {1.0, 2.0, 3.0, 4.0, 5.0};
+    double row[] = {1.0, 2.0, 3.0, 4.0, 5.0};
 
     // Run your code
     while (true) {
-        double result = lr_1_score::score(row.data());
+        double result = lr_1_score(row);
     }
 
     return 0;
